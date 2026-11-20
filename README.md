@@ -47,7 +47,7 @@ The dashboard helps understand sales performance, order trends, customer ratings
 
 ## 📷 Dashboard Preview
 
-![Swiggy Business Performance Analysis](Swiggy Business Performance Analysis.png)
+![Swiggy Business Performance Analysis](Swiggy-Business-Performance-Analysis.png)
 
 ## 👨‍💻 Author
 
